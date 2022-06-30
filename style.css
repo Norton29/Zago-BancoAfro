@@ -10,9 +10,13 @@
 .nav .container {
     width: 150px;
     margin-left: 20px;
-    margin-top: 5px;
+    margin-top: 20px;
 
 
+}
+
+#nav-menu{
+    margin: 20px 20px;
 }
 
 .container .img-fluid {
@@ -221,3 +225,14 @@
         justify-content: center;
     }
 }
+
+#footer li{
+    padding: 10px;
+    justify-content: space-between;
+}
+
+#ligasFooter li{
+    justify-content: space-between;
+    padding: 10px;
+}
+
